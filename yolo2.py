@@ -72,7 +72,7 @@ while True:
     prev_gray = gray
 
     # ================= YOLO DETECTION =================
-    results = model(frame, conf=0.5, imgsz=320, verbose=False)
+    results = model(frame, conf=0.5,  verbose=False) #imgsz=320,
 
     human_boxes = []
     obstacle_boxes = []
