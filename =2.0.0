@@ -1,0 +1,18 @@
+Looking in indexes: https://pypi.org/simple, https://www.piwheels.org/simple
+Collecting tensorflow
+  Downloading tensorflow-2.21.0-cp311-cp311-manylinux_2_27_aarch64.whl.metadata (4.4 kB)
+Collecting absl-py>=1.0.0 (from tensorflow)
+  Downloading https://www.piwheels.org/simple/absl-py/absl_py-2.4.0-py3-none-any.whl (135 kB)
+Collecting astunparse>=1.6.0 (from tensorflow)
+  Downloading https://www.piwheels.org/simple/astunparse/astunparse-1.6.3-py2.py3-none-any.whl (12 kB)
+Collecting flatbuffers>=25.9.23 (from tensorflow)
+  Downloading https://www.piwheels.org/simple/flatbuffers/flatbuffers-20181003210633-py2.py3-none-any.whl (14 kB)
+Collecting gast!=0.5.0,!=0.5.1,!=0.5.2,>=0.2.1 (from tensorflow)
+  Downloading https://www.piwheels.org/simple/gast/gast-0.7.0-py3-none-any.whl (22 kB)
+Collecting google_pasta>=0.1.1 (from tensorflow)
+  Downloading https://www.piwheels.org/simple/google-pasta/google_pasta-0.2.0-py3-none-any.whl (57 kB)
+Collecting libclang>=13.0.0 (from tensorflow)
+  Downloading libclang-18.1.1-py2.py3-none-manylinux2014_aarch64.whl.metadata (5.2 kB)
+Collecting opt_einsum>=2.3.2 (from tensorflow)
+  Downloading https://www.piwheels.org/simple/opt-einsum/opt_einsum-3.4.0-py3-none-any.whl (71 kB)
+Requirement already satisfied: packaging in ./venv11/lib/python3.11/site-packages (from tensorflow) (26.0)
